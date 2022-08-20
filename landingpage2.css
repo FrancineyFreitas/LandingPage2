@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-collapse {
+    margin-left: 400px;
+}
+
+.topo {
+    background-image: url(https://cdn.pixabay.com/photo/2015/01/07/18/11/shirts-591750_960_720.jpg);
+}
+
+.title {
+    text-align: center;
+}
+
+.container {
+    margin-left: 300px;
+}
